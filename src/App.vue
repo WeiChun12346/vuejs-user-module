@@ -1,4 +1,5 @@
 <template>
+	<link rel="stylesheet" href="https://unpkg.com/primeflex@latest/primeflex.css">   
 	<div id="app">
 		<NavBar />
 		<router-view />
